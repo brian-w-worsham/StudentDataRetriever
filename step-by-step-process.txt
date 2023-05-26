@@ -5,3 +5,8 @@
 5. Add .gitignore file to the project
 6. Add everything in these directories (.vs/, [Bb]in/, [Oo]bj/) to the .gitignore file
 7. Use notepad to create a text file with student names and save within the project directory
+8. git remote add origin git@github.com:brian-w-worsham/StudentDataRetriever.git
+9. git add .
+10. git commit -m "Initial commit"
+11. git push --set-upstream origin main
+12. Write the code to read the text file in Program.cs and Console.WriteLine each line.
