@@ -10,3 +10,6 @@
 10. git commit -m "Initial commit"
 11. git push --set-upstream origin main
 12. Write the code to read the text file in Program.cs and Console.WriteLine each line.
+13. git add .
+14. git commit -m "Added code to read text file"
+15. git push
