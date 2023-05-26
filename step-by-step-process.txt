@@ -1,0 +1,7 @@
+1. mkdir StudentDataRetriever
+2. cd StudentDataRetriever
+3. git init
+4. Launch Visual Studio and Create a console app at this directory named StudentDataRetriever
+5. Add .gitignore file to the project
+6. Add everything in these directories (.vs/, [Bb]in/, [Oo]bj/) to the .gitignore file
+7. Use notepad to create a text file with student names and save within the project directory
